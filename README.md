@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Timothy munene
-- 👀 I’m interested in .web development ui design cybersurity and data science ..
-- 🌱 I’m currently learning .python ..
-- 💞️ I’m looking to collaborate on python projects including cybersecurity...
+- 👀 I’m interested in .web development ui design...react |redux
+- 🌱 I’m currently learning python....
+- 💞️ I’m looking to collaborate on python projects and fullstack development...
 - 📫 How to reach me .neshtimo38@gmail.com.
 
 <!---
