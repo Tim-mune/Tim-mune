@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Timothy munene a technology lover Aiming to be a master programmer
 - A student at kabarak university and a video games player (VR)
 - 👀 I’m interested in .Full Stack web development, Web3 and Ethereum-blockchain technology
-- 🌱 I’m currently learning Rust...
+- 🌱 I’m currently involved with  Rust and solana
+-  i am learning three js just for fun.
 - 💞️ I’m looking to collaborate on python ,Web3 and fullstack development...
 - 📫 How to reach me .neshtimo38@gmail.com.
 
