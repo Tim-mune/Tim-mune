@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Timothy munene a technology lover Aiming to be a master programmer
-- A student at kabarak university and a video games player (VR)
-- 👀 I’m interested in .Full Stack web development, Web3 and Ethereum-blockchain technology
-- 🌱 I’m currently involved with  Rust and solana
--  i am learning three js just for fun.
-- 💞️ I’m looking to collaborate on python ,Web3 and fullstack development...
+- 👋 Hi, I’m @Timothy munene your master programmer
+- A computer scientist
+- 👀 I’m interested in .Full Stack web development, React-native, Web3 and Ethereum-blockchain technology
+- 🌱 I have completed rust im exploring near and other blockchains like sui & aptos.
+-  i do three js development and i am exploring blender both at personal level and company level
+- 💞️ I love rust.
 - 📫 How to reach me .neshtimo38@gmail.com.
 https://next-js-portfolio-jet-seven.vercel.app/
 <!---
