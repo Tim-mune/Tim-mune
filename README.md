@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timothy munene
 - A computer scientist.
-- 👀 I’m interested in Distributed systems, peer-to-peer, React-native, Web3 and Blockchain technology(Solana,Ethereum)
+- 👀 I Engineer Distributed systems, peer-to-peer, React-native, Web3 and Blockchain technology(Solana,Ethereum)
 -  i do three js development and i am exploring blender both at personal level and company level
 - 💞️ I enjoy engineering in Typescript and Rust.
 - 📫 How to reach me .neshtimo38@gmail.com.
